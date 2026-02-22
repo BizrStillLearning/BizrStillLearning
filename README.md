@@ -18,17 +18,9 @@
 
 ---
 
-### 📊 GitHub Activities & Stats
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=BizrStillLearning&theme=radical&no-frame=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true" />
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BizrStillLearning/BizrStillLearning/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -45,30 +37,23 @@
 
 ---
 
-### 🤖 AI, Machine Learning & Computer Vision
+### 🤖 Tech Stack & Tools
+
+#### AI, Machine Learning & Computer Vision
 <p align="left">
 <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-05122A?style=flat-square&logo=openai&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Machine%20Learning-Python-05122A?style=flat-square&logo=python&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-05122A?style=flat-square&logo=opencv&logoColor=white&labelColor=333333" />
-<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-05122A?style=flat-square&logo=probot&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Library-TensorFlow-05122A?style=flat-square&logo=tensorflow&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Library-PyTorch-05122A?style=flat-square&logo=pytorch&logoColor=white&labelColor=333333" />
 </p>
 
-### 🌐 Web Development & State Management
-<p align="left">
-<img src="https://img.shields.io/badge/Web-HTML5-05122A?style=flat-square&logo=html5&logoColor=white&labelColor=333333" />
-<img src="https://img.shields.io/badge/Web-CSS3-05122A?style=flat-square&logo=css3&logoColor=white&labelColor=333333" />
-<img src="https://img.shields.io/badge/Code-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white&labelColor=333333" />
-<img src="https://img.shields.io/badge/State-Pinia-05122A?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=333333" />
-<img src="https://img.shields.io/badge/State-Redux-05122A?style=flat-square&logo=redux&logoColor=white&labelColor=333333" />
-</p>
-
-### 🚀 Frameworks
+#### Web Development & Frameworks
 <p align="left">
 <img src="https://img.shields.io/badge/Framework-Laravel-05122A?style=flat-square&logo=laravel&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Framework-React-05122A?style=flat-square&logo=react&logoColor=white&labelColor=333333" />
 <img src="https://img.shields.io/badge/Framework-Next.js-05122A?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=333333" />
+<img src="https://img.shields.io/badge/State-Pinia-05122A?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=333333" />
 </p>
 
 ---
@@ -77,6 +62,8 @@
 <p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
 </p>
+
+---
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -89,19 +76,6 @@
 
 ---
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BizrStillLearning&repo=SantriConnect&theme=radical&hide_border=true" />
-</center>
-
----
-
-### 🕹️ Just for Fun
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BizrStillLearning/BizrStillLearning/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 > *"Das Genie wohnt nur eine Etage höher als der Wahnsinn."* — **Arthur Schopenhauer**
 
 ---
