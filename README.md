@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Informatics+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
 </p>
 
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/abidzar-dzakwan-sahudi-011593388/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/628XXXXXXXXXX" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://weverse.io/" target="blank"><img src="https://img.shields.io/badge/Weverse-00CBB9?style=for-the-badge&logo=weverse&logoColor=white" /></a>
+</p>
+
 ### 👨‍💻 About Me
 - 🎓 **Informatics Student** at **Universitas Muhammadiyah Surabaya**.
 - 🏫 **Alumnus of SMK TI Annajiyah Bahrul Ulum Tambakberas Jombang**.
@@ -67,21 +77,21 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BizrStillLearning/BizrStillLearning/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 📊 GitHub Analysis
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true" alt="Overall Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/BizrStillLearning/BizrStillLearning/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -101,17 +111,6 @@
 ### 🎵 Recently Played on Spotify
 <p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/abidzar-dzakwan-sahudi-011593388/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&labelColor=333333" /></a>
-<a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&labelColor=333333" /></a>
-<a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat-square&logo=gmail&labelColor=333333" /></a>
-<a href="https://weverse.io/" target="blank"><img src="https://img.shields.io/badge/Weverse-Follow-00CBB9?style=flat-square&logo=weverse&labelColor=333333" /></a>
-<a href="https://open.spotify.com/user/abidzardzakwan36" target="blank"><img src="https://img.shields.io/badge/Spotify-Profile-1DB954?style=flat-square&logo=spotify&labelColor=333333" /></a>
 </p>
 
 ---
