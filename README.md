@@ -7,7 +7,7 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/abidzar-dzakwan-sahudi-011593388/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/628XXXXXXXXXX" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/6289601261250" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,6 +19,18 @@
 - 🏫 **Alumnus of SMK TI Annajiyah Bahrul Ulum Tambakberas Jombang**.
 - 🚀 Interested in **Web & Android Development, Robotics, and AI**.
 - ⚡ 3 years of experience living in **Pondok Pesantren** — blending discipline with technology.
+
+---
+
+### ⚡ Core Expertise
+> "My primary tools for building robust and intelligent solutions."
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
@@ -115,7 +127,7 @@
 
 ---
 
-> *"Das Genie wohnt nur eine Etage höher als der Wahnsinn."* — **Arthur Schopenhauer**
+> *"Das Genie wohnt nur eine Etage hgher als der Wahnsinn."* — **Arthur Schopenhauer**
 
 ---
 *Success is the result of preparation, hard work, and learning from failure.*
