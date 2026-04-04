@@ -90,13 +90,15 @@
 ---
 
 ### 📊 GitHub Analysis
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="170" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 ---
