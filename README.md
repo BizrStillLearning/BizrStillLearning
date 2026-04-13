@@ -27,12 +27,13 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Go-777BB4?style=flat-square&logo=server&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 ---
+
 
 ### 🛠️ Tech Stack & Tools
 
@@ -73,9 +74,10 @@
   <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/go/" target="_blank"><img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" /></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
   <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-  <a href="https://cmake.org/documentation/" target="_blank"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /></a>
   <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
@@ -85,11 +87,14 @@
   <a href="https://aistudio.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
+  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Anti_Gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 GitHub Analysis & Activity
 
 <p align="center">
   <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
@@ -99,6 +104,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact" height="170" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -110,15 +116,15 @@
 
 ---
 
-### 🧠 AI Learning Roadmap (6-Month Plan)
+### 🧠 AI Learning Roadmap (2026 Target)
 > "Transforming data into intelligence, step by step."
 
-- [x] **Foundations:** Python for Data Science, Linear Algebra, and Calculus.
-- [ ] **Machine Learning:** Regression, Clustering, and Scikit-Learn.
-- [ ] **Deep Learning:** Neural Networks, CNNs with TensorFlow & PyTorch.
-- [ ] **Computer Vision:** Advanced Image Processing with OpenCV.
-- [ ] **Natural Language Processing (NLP):** Large Language Models (LLM) exploration.
-- [ ] **Hardware Integration:** Connecting AI models with Robotics & Arduino.
+- [x] **Foundations:** Python for Data Science, Linear Algebra, and Calculus `(100%)`
+- [x] **Machine Learning:** Regression, Clustering, and Scikit-Learn `(100%)`
+- [x] **Hardware Integration:** AI models with Robotics & Arduino `(100%)`
+- [ ] **Deep Learning:** Neural Networks, CNNs with TensorFlow & PyTorch `(40%)`
+- [ ] **Computer Vision:** Advanced Image Processing with OpenCV `(15%)`
+- [ ] **Natural Language Processing (NLP):** LLM exploration `(5%)`
 
 ---
 
