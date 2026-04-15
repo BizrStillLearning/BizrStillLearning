@@ -97,14 +97,13 @@
 ### 📊 GitHub Analysis & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Overall Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-  <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact" height="170" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://wakatime.com/share/@BizrStillLearning/ee127ff9-a005-4270-a63f-f5947f420e70.svg?v=1" height="180" alt="WakaTime Stats" />
 </p>
 
 ---
