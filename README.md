@@ -11,7 +11,7 @@
 <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://weverse.io/" target="blank"><img src="https://img.shields.io/badge/Weverse-00CBB9?style=for-the-badge&logo=weverse&logoColor=white" /></a>
+<!-- <a href="https://weverse.io/" target="blank"><img src="https://img.shields.io/badge/Weverse-00CBB9?style=for-the-badge&logo=weverse&logoColor=white" /></a> -->
 </p>
 
 ### 👨‍💻 About Me
@@ -121,8 +121,8 @@
 - [x] **Foundations:** Python for Data Science, Linear Algebra, and Calculus `(100%)`
 - [x] **Machine Learning:** Regression, Clustering, and Scikit-Learn `(100%)`
 - [x] **Hardware Integration:** AI models with Robotics & Arduino `(100%)`
-- [ ] **Deep Learning:** Neural Networks, CNNs with TensorFlow & PyTorch `(40%)`
-- [ ] **Computer Vision:** Advanced Image Processing with OpenCV `(15%)`
+- [x] **Deep Learning:** Neural Networks, CNNs with TensorFlow & PyTorch `(100%)`
+- [x] **Computer Vision:** Advanced Image Processing with OpenCV `(65%)`
 - [ ] **Natural Language Processing (NLP):** LLM exploration `(5%)`
 
 ---
