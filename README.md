@@ -103,7 +103,8 @@
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" /> -->
     </td>
   </tr>
   <tr style="border: none;">
