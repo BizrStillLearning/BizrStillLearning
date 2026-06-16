@@ -100,26 +100,25 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true" height="180" alt="Overall Stats" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://streak-stats.demolab.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" /> -->
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
     </td>
     <td align="center" style="border: none;">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact&custom_title=WakaTime%20(Last%207%20Days)" height="180" alt="WakaTime 7 Days" />
     </td>
   </tr>
-  <!-- <tr style="border: none;">
+  <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)" height="180" alt="WakaTime All Time" />
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 ---
