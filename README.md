@@ -1,17 +1,16 @@
 # Hi 👋, I'm Abidzar Dzakwan Sahudi
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Informatics+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05D9E8&width=435&lines=Informatics+Student;Full+Stack+Developer;AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/abidzar-dzakwan-sahudi-011593388/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://wa.me/6289601261250" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- <a href="https://weverse.io/" target="blank"><img src="https://img.shields.io/badge/Weverse-00CBB9?style=for-the-badge&logo=weverse&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/abidzar-dzakwan-sahudi-011593388/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=05D9E8&color=2A2A4A" /></a>
+<a href="https://wa.me/6289601261250" target="blank"><img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=05D9E8&color=2A2A4A" /></a>
+<a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="blank"><img src="https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=05D9E8&color=2A2A4A" /></a>
+<a href="https://www.instagram.com/bizrrr_ae/" target="blank"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=05D9E8&color=2A2A4A" /></a>
+<a href="mailto:abidzardzakwan36@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=05D9E8&color=2A2A4A" /></a>
 </p>
 
 ### 👨‍💻 About Me
@@ -26,70 +25,69 @@
 > "My primary tools for building robust and intelligent solutions."
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Go-777BB4?style=flat-square&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-1A1A1A?style=flat-square&logo=vite&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Go-1A1A1A?style=flat-square&logo=server&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-1A1A1A?style=flat-square&logo=python&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-1A1A1A?style=flat-square&logo=flutter&logoColor=FF2A6D&color=2A2A4A" />
 </p>
 
 ---
-
 
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages & OS
 <p align="left">
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a href="https://go.dev/doc/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="https://ubuntu.com/tutorials" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-  <a href="https://wiki.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.php.net/docs.php" target="_blank"><img src="https://img.shields.io/badge/PHP-1A1A1A?style=for-the-badge&logo=php&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://go.dev/doc/" target="_blank"><img src="https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank"><img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge&logo=kotlin&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-1A1A1A?style=for-the-badge&logo=windows&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://ubuntu.com/tutorials" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-1A1A1A?style=for-the-badge&logo=ubuntu&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://wiki.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1A1A1A?style=for-the-badge&logo=arch-linux&logoColor=05D9E8&color=2A2A4A" /></a>
 </p>
 
 #### 🚀 Frameworks & Libraries
 <p align="left">
-  <a href="https://laravel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-  <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://nuxt.com/docs" target="_blank"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  <a href="https://docs.flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://docs.opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
-  <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Pinia-FFE066?style=for-the-badge&logo=pinia&logoColor=black" /></a>
+  <a href="https://laravel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Laravel-1A1A1A?style=for-the-badge&logo=laravel&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://img.shields.io/badge/Vue.js-1A1A1A?style=for-the-badge&logo=vuedotjs&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://nuxt.com/docs" target="_blank"><img src="https://img.shields.io/badge/Nuxt.js-1A1A1A?style=for-the-badge&logo=nuxtdotjs&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://docs.flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-1A1A1A?style=for-the-badge&logo=flutter&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://pytorch.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://docs.opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-1A1A1A?style=for-the-badge&logo=opencv&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-1A1A1A?style=for-the-badge&logo=redux&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Pinia-1A1A1A?style=for-the-badge&logo=pinia&logoColor=05D9E8&color=2A2A4A" /></a>
 </p>
 
 #### ⚙️ IDEs & Development Tools
 <p align="left">
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/go/" target="_blank"><img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
-  <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-1A1A1A?style=for-the-badge&logo=webstorm&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/PhpStorm-1A1A1A?style=for-the-badge&logo=phpstorm&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/clion/" target="_blank"><img src="https://img.shields.io/badge/CLion-1A1A1A?style=for-the-badge&logo=clion&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-1A1A1A?style=for-the-badge&logo=pycharm&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-1A1A1A?style=for-the-badge&logo=intellij-idea&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-1A1A1A?style=for-the-badge&logo=rider&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.jetbrains.com/go/" target="_blank"><img src="https://img.shields.io/badge/GoLand-1A1A1A?style=for-the-badge&logo=goland&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-1A1A1A?style=for-the-badge&logo=android-studio&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=05D9E8&color=2A2A4A" /></a>
+  <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=05D9E8&color=2A2A4A" /></a>
 </p>
 
 #### 🤖 AI Development
 <p align="left">
   <a href="https://aistudio.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_AI_Studio-1A1A1A?style=for-the-badge&logo=google&logoColor=05D9E8&color=2A2A4A" />
   </a>
   <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Anti_Gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Anti_Gravity-1A1A1A?style=for-the-badge&logo=google&logoColor=05D9E8&color=2A2A4A" />
   </a>
 </p>
 
@@ -100,23 +98,33 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=radical&hide_border=true" height="180" alt="Overall Stats" />
+      <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true" height="180" alt="Overall Stats" />
+      </a>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com/?user=BizrStillLearning&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+      <a href="https://github.com/BizrStillLearning" target="_blank">
+        <img src="https://github-readme-streak-stats-green-gamma.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true" height="180" alt="Streak Stats" />
+      </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+      <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+      </a>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact&custom_title=WakaTime%20(Last%207%20Days)" height="180" alt="WakaTime 7 Days" />
+      <a href="https://wakatime.com" target="_blank">
+        <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=WakaTime%20(Last%207%20Days)" height="180" alt="WakaTime 7 Days" />
+      </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=radical&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)" height="180" alt="WakaTime All Time" />
+      <a href="https://wakatime.com" target="_blank">
+        <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)" height="180" alt="WakaTime All Time" />
+      </a>
     </td>
   </tr>
 </table>
