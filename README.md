@@ -14,6 +14,15 @@
 </p>
 
 ### 👨‍💻 About Me
+```javascript
+const abidzarProfile = {
+  status: "Informatics Student",
+  focus: ["Full-Stack Engineering", "AI Integrations"],
+  currentProjects: ["SantriConnect", "GoVoting Apps", "Bookshelf"],
+  background: "Blending Pesantren discipline with modern technology.",
+  execute: () => console.log("Compiling the future, one line at a time. 🚀")
+};
+```
 - 🎓 **Informatics Student** at **Universitas Muhammadiyah Surabaya**.
 - 🏫 **Alumnus of SMK TI Annajiyah Bahrul Ulum Tambakberas Jombang**.
 - 🚀 Interested in **Web & Android Development, Robotics, and AI**.
