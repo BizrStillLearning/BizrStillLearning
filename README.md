@@ -155,10 +155,39 @@ const abidzarProfile = {
 
 ---
 
-### 🎵 Recently Played on Spotify
-<p align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="45%" valign="top" style="border: none;">
+
+<b>🎵 Recently Played on Spotify</b><br><br>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
+
+</td>
+<td width="55%" valign="top" style="border: none;">
+
+<b>👾 system/personality_config.json</b><br><br>
+<img align="right" src="./bunnies.gif" width="90" alt="Bunnies Maskot" />
+
+<pre lang="json">
+{
+  "user": "Abidzar",
+  "alter_ego": "Software Engineer & Playlist Curator 🎧",
+  "status": "Off-Duty 🌙",
+  "fandom_status": "Multistandom 🌌",
+  "obsessed_with": "katarinabluu 💙",
+  "music_dna": {
+    "genres": ["K-Pop", "Synthwave", "EDM", "R&B"],
+    "top_groups": ["BABYMONSTER", "Hearts2Hearts", "IVE", "NewJeans", "TWICE"],
+    "honorable_mentions": ["Aespa"]
+  },
+  "survival_kit": ["Espresso ☕", "Headphones 🎧", "Mechanical Keyboard ⌨️"],
+  "current_vibe": "Enjoying the playlist..."
+}
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
