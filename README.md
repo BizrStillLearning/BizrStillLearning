@@ -34,10 +34,10 @@ const abidzarProfile = {
 > "My primary tools for building robust and intelligent solutions."
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-1A1A1A?style=flat-square&logo=vite&logoColor=FF2A6D&color=2A2A4A" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Go-1A1A1A?style=flat-square&logo=server&logoColor=FF2A6D&color=2A2A4A" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-1A1A1A?style=flat-square&logo=python&logoColor=FF2A6D&color=2A2A4A" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-1A1A1A?style=flat-square&logo=flutter&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Tailwind-1A1A1A?style=flat-square&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Go-1A1A1A?style=flat-square&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Python%20%7C%20TensorFlow-1A1A1A?style=flat-square&logoColor=FF2A6D&color=2A2A4A" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter-1A1A1A?style=flat-square&logoColor=FF2A6D&color=2A2A4A" />
 </p>
 
 ---
