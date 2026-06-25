@@ -156,28 +156,15 @@ const abidzarProfile = {
 ---
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-
-<td width="50%" valign="top" style="border: none;">
-
-<b>🎵 Recently Played on Spotify</b><br><br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=5" alt="Spotify Recently Played" />
-
-<br><br>
-
-<!-- <b>♟️ Chess.com Stats</b><br><br>
-<a href="https://www.chess.com/member/bizrrr">
-  <img src="https://github-readme-chess.vercel.app/api?chessComUsername=bizrrr&theme=dark&hide_title=true" alt="Chess.com Stats" />
-</a> -->
-
-</td>
-
-<td width="50%" valign="top" style="border: none;">
-
-<b>👾 system/personality_config.json</b><br><br>
-
-<img align="right" src="./bunnies.gif" width="90" alt="Bunnies Maskot" />
-
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <b>🎵 Recently Played on Spotify</b><br><br>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
+      <br><br>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <img align="right" src="./bunnies.gif" width="80" alt="Bunnies Maskot" />
+      <b>👾 system/personality_config.json</b><br><br>
 <pre lang="json">
 {
   "user": "Abidzar",
@@ -194,10 +181,8 @@ const abidzarProfile = {
   "current_vibe": "Enjoying the playlist..."
 }
 </pre>
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
