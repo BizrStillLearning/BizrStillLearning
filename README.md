@@ -122,8 +122,8 @@ const abidzarProfile = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
     </a>
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true&v=3" alt="WakaTime 7 Days" />
-    </a>
+<img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_30_days&custom_title=Total%20Coding%20Time%20(30%20Days)&hide_border=true&v=3" alt="Total Coding Time 30 Days" />
+</a>
   </p>
 
   <p>
