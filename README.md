@@ -108,25 +108,28 @@ const abidzarProfile = {
 ### 📊 GitHub Analysis & Activity
 
 <div align="center">
+
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true" height="180" alt="Overall Stats" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true" alt="Overall Stats" />
     </a>
     <a href="https://github.com/BizrStillLearning" target="_blank">
-      <img src="https://github-readme-streak-stats-green-gamma.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true" height="180" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats-green-gamma.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true" alt="Streak Stats" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
     </a>
-   <a href="https://wakatime.com" target="_blank"> <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true&v=8" alt="WakaTime 7 Days" /> </a>
+    <a href="https://wakatime.com" target="_blank">
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true" alt="WakaTime 7 Days" />
+    </a>
   </p>
 
   <p>
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)&hide_border=true&v=3" alt="WakaTime All Time" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)&hide_border=true" alt="WakaTime All Time" />
     </a>
   </p>
 
