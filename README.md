@@ -114,7 +114,7 @@ const abidzarProfile = {
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true" alt="Overall Stats" />
     </a>
     <a href="https://github.com/BizrStillLearning" target="_blank">
-      <img src="https://github-readme-streak-stats-green-gamma.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=1" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats2-liard.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true" alt="Streak Stats" />
     </a>
   </p>
 
