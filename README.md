@@ -156,35 +156,15 @@ const abidzarProfile = {
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <b>🎵 Recently Played on Spotify</b><br><br>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
-      <br><br>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <img align="right" src="./bunnies.gif" width="80" alt="Bunnies Maskot" />
-      <b>👾 system/personality_config.json</b><br><br>
-<pre lang="json">
-{
-  "user": "Abidzar",
-  "alter_ego": "Software Engineer & Playlist Curator 🎧",
-  "status": "Off-Duty 🌙",
-  "fandom_status": "Multistandom 🌌",
-  "obsessed_with": "katarinabluu 💙",
-  "music_dna": {
-    "genres": ["K-Pop", "Synthwave", "EDM", "R&B"],
-    "top_groups": ["BABYMONSTER", "Hearts2Hearts", "IVE", "NewJeans", "TWICE"],
-    "honorable_mentions": ["Aespa"]
-  },
-  "survival_kit": ["Espresso ☕", "Headphones 🎧", "Mechanical Keyboard ⌨️"],
-  "current_vibe": "Enjoying the playlist..."
-}
-</pre>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 10px;" />
+  <br>
+  <b>🎵 Recently Played on Spotify</b>
+  <br><br>
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=10" alt="Spotify Recently Played" />
+  </a>
+</div>
 
 ---
 
