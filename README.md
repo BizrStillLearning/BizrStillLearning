@@ -108,31 +108,23 @@ const abidzarProfile = {
 ### 📊 GitHub Analysis & Activity
 
 <div align="center">
-
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true" alt="Overall Stats" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true&v=100" alt="Overall Stats" />
     </a>
     <a href="https://github.com/BizrStillLearning" target="_blank">
-      <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true" alt="Streak Stats" />
+      <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=100" alt="Streak Stats" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=100" alt="Top Languages" />
     </a>
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true" alt="WakaTime 7 Days" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true&v=100" alt="WakaTime 7 Days" />
     </a>
   </p>
-
-  <p>
-    <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=all_time&custom_title=Total%20Coding%20Time%20(All%20Time)&hide_border=true" alt="WakaTime All Time" />
-    </a>
-  </p>
-
 </div>
 
 ---
@@ -159,11 +151,58 @@ const abidzarProfile = {
 <div align="center">
   <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 10px;" />
   <br>
-  <b>🎵 Recently Played on Spotify</b>
-  <br><br>
-  <a href="https://spotify.com" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=10" alt="Spotify Recently Played" />
-  </a>
+
+  <table width="85%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td width="50%" align="center" valign="top" style="border: none;">
+        <b>🎵 Recently Played on Spotify</b><br><br>
+        <a href="https://spotify.com" target="_blank">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top" style="border: none;">
+        <b>Curated Favorites 💿</b><br><br>
+        <table border="0" cellspacing="10" cellpadding="0" style="border: none;">
+          <tr>
+            <td align="center" style="border: none;">
+              <a href="https://open.spotify.com/search/BABYMONSTER%20Drip" target="_blank">
+                <img src="https://i.scdn.co/image/ab67616d0000e1a3119800c5fc88785ee3ed1524" width="120" style="border-radius: 10px;" alt="Drip - BABYMONSTER" title="Drip - 1st Full Album by BABYMONSTER" />
+              </a>
+            </td>
+            <td align="center" style="border: none;">
+              <a href="https://open.spotify.com/search/aespa%20Armageddon" target="_blank">
+                <img src="https://i.scdn.co/image/ab67616d00001e020fc598038040859794c600e2" width="120" style="border-radius: 10px;" alt="Armageddon - aespa" title="Armageddon - The 1st Album" />
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="border: none;">
+              <a href="https://open.spotify.com/search/NMIXX%20Heavy%20Serenade" target="_blank">
+                <img src="https://i.scdn.co/image/ab67616d00001e02d179b01c0b9baac10170d1ad" width="120" style="border-radius: 10px;" alt="Heavy Serenade - NMIXX" title="Heavy Serenade by NMIXX" />
+              </a>
+            </td>
+            <td align="center" style="border: none;">
+              <a href="https://open.spotify.com/search/Aespa%20LEMONADE" target="_blank">
+                <img src="https://i.scdn.co/image/ab67616d00001e0253ca3f7b64b26001a22ea1c3" width="120" style="border-radius: 10px;" alt="LEMONADE - Aespa" title="Lemonade -The 2nd Album" />
+              </a>
+            </td>
+          </tr>
+          <!-- <tr>
+            <td align="center" style="border: none;">
+              <a href="LINK_SPOTIFY_ALBUM_5" target="_blank">
+                <img src="URL_GAMBAR_ALBUM_5" width="120" style="border-radius: 10px;" alt="Nama Album 5" title="Keterangan Album 5" />
+              </a>
+            </td>
+            <td align="center" style="border: none;">
+              <a href="LINK_SPOTIFY_ALBUM_6" target="_blank">
+                <img src="URL_GAMBAR_ALBUM_6" width="120" style="border-radius: 10px;" alt="Nama Album 6" title="Keterangan Album 6" />
+              </a>
+            </td>
+          </tr> -->
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
