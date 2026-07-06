@@ -156,9 +156,12 @@ const abidzarProfile = {
 ---
 
 <div align="center">
-  <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 10px;" />
+  <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 10px;" /> 
   <br>
+  <img src="https://komarev.com/ghpvc/?username=BizrStillLearning&color=7000FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
+<div align="center">
   <table width="85%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td width="50%" align="center" valign="top" style="border: none;">
