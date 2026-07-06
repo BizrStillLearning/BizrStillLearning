@@ -129,10 +129,17 @@ const abidzarProfile = {
 
 ---
 
+<!--
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/BizrStillLearning/BizrStillLearning/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+-->
+
+<div align="center">
+  <h3>🏙️ Contribution Architecture</h3>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+</div>
 
 ---
 
