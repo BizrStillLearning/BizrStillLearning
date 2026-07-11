@@ -18,7 +18,7 @@
 const abidzarProfile = {
   status: "Informatics Student",
   focus: ["Full-Stack Engineering", "AI Integrations"],
-  currentProjects: ["SantriConnect", "GoVoting Apps", "Bookshelf"],
+  currentProjects: ["SantriConnect", "EVoting Apps", "Smart Retail App"
   background: "Blending Pesantren discipline with modern technology.",
   execute: () => console.log("Compiling the future, one line at a time. 🚀")
 };
@@ -148,10 +148,10 @@ const abidzarProfile = {
 
 - [x] **Foundations:** Python for Data Science, Linear Algebra, and Calculus `(100%)`
 - [x] **Machine Learning:** Regression, Clustering, and Scikit-Learn `(100%)`
-- [x] **Hardware Integration:** AI models with Robotics & Arduino `(100%)`
+- [x] **Hardware Integration:** AI models with Robotics & Arduino `(20%)`
 - [x] **Deep Learning:** Neural Networks, CNNs with TensorFlow & PyTorch `(100%)`
 - [x] **Computer Vision:** Advanced Image Processing with OpenCV `(65%)`
-- [ ] **Natural Language Processing (NLP):** LLM exploration `(5%)`
+- [x] **Natural Language Processing (NLP):** LLM exploration `(70%)`
 
 ---
 
