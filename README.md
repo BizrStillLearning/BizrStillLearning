@@ -94,16 +94,6 @@ const abidzarProfile = {
 <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-#### 🤖 AI Development
-<p align="left">
-<a href="https://aistudio.google.com/" target="_blank">
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
-<img src="https://img.shields.io/badge/Google_Anti_Gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-</p>
-
 ---
 
 ### 📊 GitHub Analysis & Activity
