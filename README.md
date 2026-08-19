@@ -86,12 +86,14 @@ const abidzarProfile = {
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
 <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" /></a>
 <a href="https://www.jetbrains.com/go/" target="_blank"><img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" /></a>
+<a href="https://www.jetbrains.com/rust/" target="_blank"><img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
 <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 <a href="https://vercel.com/docs" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ngrok.com/docs" target="_blank"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" /></a>
 </p>
 
 ---
