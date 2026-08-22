@@ -160,7 +160,7 @@ const abidzarProfile = {
       <td width="50%" align="center" valign="top" style="border: none;">
         <b>🎵 Recently Played on Spotify</b><br><br>
         <a href="https://spotify.com" target="_blank">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8" alt="Spotify Recently Played" />
+          <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8&v=101" alt="Spotify Recently Played" />
         </a>
       </td>
       <td width="50%" align="center" valign="top" style="border: none;">
