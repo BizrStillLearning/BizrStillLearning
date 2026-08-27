@@ -104,14 +104,8 @@ const abidzarProfile = {
 <!-- <a href="https://wakatime.com/@BizrStillLearning" target="_blank">
   <img src="https://wakatime.com/badge/user/8c74cf22-b72b-4a67-b5e7-a44351510fb1.svg" alt="WakaTime Today" style="margin-bottom: 15px;" />
 </a> -->
-
-  <p>
-    <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true&v=100" alt="Overall Stats" />
-    </a>
-    <a href="https://github.com/BizrStillLearning" target="_blank">
-      <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=100" alt="Streak Stats" />
-    </a>
+  <p align="center">
+    <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank"><img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true&v=100" alt="Overall Stats" /></a><a href="https://github.com/BizrStillLearning" target="_blank">     <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=100" alt="Streak Stats" /></a>
   </p>
 
   <p>
