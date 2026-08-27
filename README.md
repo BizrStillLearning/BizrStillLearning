@@ -101,9 +101,9 @@ const abidzarProfile = {
 ### 📊 GitHub Analysis & Activity
 
 <div align="center">
-  <a href="https://wakatime.com/@BizrStillLearning" target="_blank">
-    <img src="https://wakatime.com/badge/user/ID_WAKATIME_ANDA.svg" alt="WakaTime Today" style="margin-bottom: 15px;" />
-  </a>
+<!-- <a href="https://wakatime.com/@BizrStillLearning" target="_blank">
+  <img src="https://wakatime.com/badge/user/8c74cf22-b72b-4a67-b5e7-a44351510fb1.svg" alt="WakaTime Today" style="margin-bottom: 15px;" />
+</a> -->
 
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
