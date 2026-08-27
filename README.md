@@ -101,6 +101,10 @@ const abidzarProfile = {
 ### 📊 GitHub Analysis & Activity
 
 <div align="center">
+  <a href="https://wakatime.com/@BizrStillLearning" target="_blank">
+    <img src="https://wakatime.com/badge/user/ID_WAKATIME_ANDA.svg" alt="WakaTime Today" style="margin-bottom: 15px;" />
+  </a>
+
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true&v=100" alt="Overall Stats" />
@@ -115,8 +119,12 @@ const abidzarProfile = {
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=100" alt="Top Languages" />
     </a>
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&range=last_7_days&custom_title=WakaTime%20(Last%207%20Days)&hide_border=true&v=100" alt="WakaTime 7 Days" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=Total%20Coding%20Time&hide_border=true&v=100" alt="WakaTime Total Coding Time" />
     </a>
+  </p>
+
+  <p>
+    <img src="https://testingmyproject.space/main/api/v1/public/github/svg/7010fc92-891c-40e4-8300-7145c7622330" alt="Analog Coding Stats" />
   </p>
 </div>
 
