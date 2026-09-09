@@ -164,6 +164,9 @@ const abidzarProfile = {
         <a href="https://spotify.com" target="_blank">
           <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=31syxwnrvuff6jujdk7xwn6gdawm&count=8&v=101" alt="Spotify Recently Played" />
         </a>
+        <p align="center">
+<img src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/spotify-stats.svg" alt="Spotify Recently Played" />
+    </p>
       </td>
       <td width="50%" align="center" valign="top" style="border: none;">
         <b>Curated Favorites 💿</b><br><br>
