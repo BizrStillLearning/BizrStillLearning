@@ -171,7 +171,17 @@ const abidzarProfile = {
     />
   </a>
 </td>
-      <td width="50%" align="center" valign="top" style="border: none;">
+<td width="50%" align="center" valign="top" style="border: none;">
+  <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/top-albums.svg" 
+      alt="Top Albums" 
+      width="100%"
+      style="max-width: 280px;"
+    />
+  </a>
+</td>
+      <!-- <td width="50%" align="center" valign="top" style="border: none;">
         <b>Curated Favorites 💿</b><br><br>
         <table border="0" cellspacing="10" cellpadding="0" style="border: none;">
           <tr>
@@ -209,7 +219,7 @@ const abidzarProfile = {
               <a href="https://open.spotify.com/search/aespa%20Drama" target="_blank">
                 <img src="https://i.scdn.co/image/ab67616d0000e1a3ae59604190fd4dcd891d5c69" width="120" style="border-radius: 10px;" alt="Drama - aespa" title="Drama - The 4th Mini Album" />
               </a>
-            </td>
+            </td> -->
           </tr>
         </table>
       </td>
