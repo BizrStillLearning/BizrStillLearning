@@ -160,26 +160,22 @@ const abidzarProfile = {
   <table width="85%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
      <td width="50%" align="center" valign="top" style="border: none;">
-  <b>🎵 Recently Played on Spotify</b>
-  <br><br>
   <a href="https://open.spotify.com/user/31syxwnrvuff6jujdk7xwn6gdawm" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/spotify-stats.svg" 
-      alt="Spotify Activity Stats" 
+      alt="Recently Played on Spotify" 
       width="100%"
       style="max-width: 420px;"
     />
   </a>
 </td>
 <td width="50%" align="center" valign="top" style="border: none;">
-  <b>💿 Top Albums</b>
-  <br><br>
   <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/top-albums.svg" 
       alt="Top Albums" 
       width="100%"
-      style="max-width: 220px;"
+      style="max-width: 256px;"
     />
   </a>
 </td>
