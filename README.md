@@ -117,8 +117,8 @@ const abidzarProfile = {
 </p>
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=100" alt="Top Languages" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=101" alt="Top Languages" />
+</a>
     <a href="https://wakatime.com" target="_blank">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=100" alt="WakaTime Total Coding Time" />
     </a>
