@@ -158,39 +158,49 @@ const abidzarProfile = {
 ---
 
 <div align="center">
-  <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 10px;" /> 
+  <img src="./bunnies.gif" width="60" alt="Bunnies Maskot" style="margin-bottom: 8px;" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=BizrStillLearning&color=7000FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+<br>
+
 <div align="center">
-  <table width="85%" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; margin: 0 auto;">
     <tr style="border: none;">
-     <td width="50%" align="center" valign="top" style="border: none;">
-  <a href="https://open.spotify.com/user/31syxwnrvuff6jujdk7xwn6gdawm" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/spotify-stats.svg" 
-      alt="Recently Played on Spotify" 
-      width="100%"
-      style="max-width: 420px;"
-    />
-  </a>
-</td>
-<td width="50%" align="center" valign="top" style="border: none;">
-  <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/BizrStillLearning/spotify-github-stats/main/dist/top-albums.svg" 
-      alt="Top Albums" 
-      width="100%"
-      style="max-width: 256px;"
-    />
-  </a>
-</td>
-       </tr>
-        </table>
+      <td width="62%" align="center" valign="top" style="border: none; padding: 6px;">
+        <a href="https://open.spotify.com/user/31syxwnrvuff6jujdk7xwn6gdawm" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="https://spotify-github-stats.vercel.app/api/recent?user=Bizr86&theme=synthwave&border=true" 
+            alt="Recently Played on Spotify" 
+            width="100%" 
+            style="max-width: 420px; display: block;" 
+          />
+        </a>
+      </td>
+      <td width="38%" align="center" valign="top" style="border: none; padding: 6px;">
+        <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="https://spotify-github-stats.vercel.app/api/top-albums?user=Bizr86&theme=synthwave&border=true" 
+            alt="Top Albums" 
+            width="100%" 
+            style="max-width: 256px; display: block;" 
+          />
+        </a>
       </td>
     </tr>
   </table>
+
+  <div style="margin-top: 10px;">
+    <a href="https://open.spotify.com" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://spotify-github-stats.vercel.app/api/now-playing?user=Bizr86&theme=synthwave&border=true" 
+        alt="Now Playing" 
+        width="100%" 
+        style="max-width: 688px; display: block; margin: 0 auto;" 
+      />
+    </a>
+  </div>
 </div>
 
 ---
