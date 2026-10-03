@@ -115,7 +115,6 @@ const abidzarProfile = {
     <img src="https://my-github-stats-umber-three.vercel.app/api/card/BizrStillLearning?theme=synthwave" alt="BizrStillLearning's GitHub Stats" />
   </a>
 </p>
-
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=100" alt="Top Languages" />
@@ -187,46 +186,7 @@ const abidzarProfile = {
     />
   </a>
 </td>
-      <!-- <td width="50%" align="center" valign="top" style="border: none;">
-        <b>Curated Favorites 💿</b><br><br>
-        <table border="0" cellspacing="10" cellpadding="0" style="border: none;">
-          <tr>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/BABYMONSTER%20Drip" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d0000e1a3119800c5fc88785ee3ed1524" width="120" style="border-radius: 10px;" alt="Drip - BABYMONSTER" title="Drip - 1st Full Album by BABYMONSTER" />
-              </a>
-            </td>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/aespa%20Armageddon" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d00001e020fc598038040859794c600e2" width="120" style="border-radius: 10px;" alt="Armageddon - aespa" title="Armageddon - The 1st Album" />
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/NMIXX%20Heavy%20Serenade" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d00001e02d179b01c0b9baac10170d1ad" width="120" style="border-radius: 10px;" alt="Heavy Serenade - NMIXX" title="Heavy Serenade - NMIXX" />
-              </a>
-            </td>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/Aespa%20LEMONADE" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d00001e0253ca3f7b64b26001a22ea1c3" width="120" style="border-radius: 10px;" alt="LEMONADE - Aespa" title="Lemonade -The 2nd Album" />
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/IVE%20REVIVE%2B" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d0000e1a3ad80a9aabc17535c5eeb5317" width="120" style="border-radius: 10px;" alt="REVIVE+
-" title="REVIVE+ - 2nd Full Length Album" />
-              </a>
-            </td>
-            <td align="center" style="border: none;">
-              <a href="https://open.spotify.com/search/aespa%20Drama" target="_blank">
-                <img src="https://i.scdn.co/image/ab67616d0000e1a3ae59604190fd4dcd891d5c69" width="120" style="border-radius: 10px;" alt="Drama - aespa" title="Drama - The 4th Mini Album" />
-              </a>
-            </td> -->
-          </tr>
+       </tr>
         </table>
       </td>
     </tr>
