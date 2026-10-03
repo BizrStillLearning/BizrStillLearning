@@ -166,41 +166,37 @@ const abidzarProfile = {
 <br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; margin: 0 auto;">
-    <tr style="border: none;">
-      <td width="62%" align="center" valign="top" style="border: none; padding: 6px;">
-        <a href="https://open.spotify.com/user/31syxwnrvuff6jujdk7xwn6gdawm" target="_blank" rel="noopener noreferrer">
-          <img 
-            src="https://spotify-github-stats.vercel.app/api/recent?user=Bizr86&theme=synthwave&border=true" 
-            alt="Recently Played on Spotify" 
-            width="100%" 
-            style="max-width: 420px; display: block;" 
-          />
-        </a>
-      </td>
-      <td width="38%" align="center" valign="top" style="border: none; padding: 6px;">
-        <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
-          <img 
-            src="https://spotify-github-stats.vercel.app/api/top-albums?user=Bizr86&theme=synthwave&border=true" 
-            alt="Top Albums" 
-            width="100%" 
-            style="max-width: 256px; display: block;" 
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+  <p align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 12px; margin: 0; padding: 0;">
+    <a href="https://open.spotify.com/user/31syxwnrvuff6jujdk7xwn6gdawm" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://spotify-github-stats.vercel.app/api/recent?user=Bizr86&theme=synthwave&border=true" 
+        alt="Recently Played on Spotify" 
+        width="420" 
+        style="width: 420px; max-width: 100%; display: block;" 
+      />
+    </a>
+    <a href="https://www.last.fm/user/Bizr86/library/albums" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://spotify-github-stats.vercel.app/api/top-albums?user=Bizr86&theme=synthwave&border=true" 
+        alt="Top Albums" 
+        width="256" 
+        style="width: 256px; max-width: 100%; display: block;" 
+      />
+    </a>
+  </p>
 
-  <div style="margin-top: 10px;">
+  <p align="center" style="margin-top: 12px; margin-bottom: 0; padding: 0;">
     <a href="https://open.spotify.com" target="_blank" rel="noopener noreferrer">
       <img 
         src="https://spotify-github-stats.vercel.app/api/now-playing?user=Bizr86&theme=synthwave&border=true" 
         alt="Now Playing" 
-        width="100%" 
-        style="max-width: 688px; display: block; margin: 0 auto;" 
+        width="688" 
+        style="width: 688px; max-width: 100%; display: block;" 
       />
     </a>
-  </div>
+  </p>
+</div>
 </div>
 
 ---
