@@ -124,9 +124,11 @@ const abidzarProfile = {
     </a>
   </p>
 
+<!--
   <p>
     <img src="https://testingmyproject.space/main/api/v1/public/github/svg/7010fc92-891c-40e4-8300-7145c7622330" alt="Analog Coding Stats" />
   </p>
+  -->
 </div>
 
 ---
