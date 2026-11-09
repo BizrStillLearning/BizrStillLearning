@@ -105,20 +105,20 @@ const abidzarProfile = {
     </a>
   </p>
 
-  <!-- Baris 2: Dua Kartu Bahasa (Bersebelahan) -->
+  <!-- Baris 2: Top Languages & Streak Stats (Bersebelahan & Tidak Kembar) -->
   <p align="center">
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Most%20Used%20Languages&v=300" alt="Languages by Repo" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&v=400" alt="Top Languages" />
     </a>
-    <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20Distribution&v=300" alt="Languages by Commit" />
+    <a href="https://github.com/BizrStillLearning" target="_blank">
+      <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=400" alt="Streak Stats" />
     </a>
   </p>
 
-  <!-- Baris 3: WakaTime Total Coding Time (Lebar / Sendirian) -->
+  <!-- Baris 3: WakaTime Total Coding Time (Dikembalikan ke layout compact) -->
   <p align="center">
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=300" alt="WakaTime Total Coding Time" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=400" alt="WakaTime Total Coding Time" />
     </a>
   </p>
 </div>
