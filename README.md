@@ -53,9 +53,6 @@ const abidzarProfile = {
 <a href="https://go.dev/doc/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 <a href="https://kotlinlang.org/docs/home.html" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-<!-- <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a> -->
-<!-- <a href="https://ubuntu.com/tutorials" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a> -->
-<!-- <a href="https://wiki.archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a> -->
 </p>
 
 #### 🚀 Frameworks & Libraries
@@ -118,18 +115,12 @@ const abidzarProfile = {
 </p>
   <p>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=101" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=200" alt="Top Languages" />
 </a>
     <a href="https://wakatime.com" target="_blank">
       <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=100" alt="WakaTime Total Coding Time" />
     </a>
   </p>
-
-<!--
-  <p>
-    <img src="https://testingmyproject.space/main/api/v1/public/github/svg/7010fc92-891c-40e4-8300-7145c7622330" alt="Analog Coding Stats" />
-  </p>
-  -->
 </div>
 
 ---
