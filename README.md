@@ -97,28 +97,28 @@ const abidzarProfile = {
 ---
 
 ### 📊 GitHub Analysis & Activity
-
 <div align="center">
-<!-- <a href="https://wakatime.com/@BizrStillLearning" target="_blank">
-  <img src="https://wakatime.com/badge/user/8c74cf22-b72b-4a67-b5e7-a44351510fb1.svg" alt="WakaTime Today" style="margin-bottom: 15px;" />
-</a> -->
-  <!--
+  <!-- Baris 1: 3D GitHub Stats -->
   <p align="center">
-    <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank"><img src="https://github-readme-stats-chi-one-75.vercel.app/api?username=BizrStillLearning&show_icons=true&theme=synthwave&hide_border=true&v=100" alt="Overall Stats" /></a><a href="https://github.com/BizrStillLearning" target="_blank">     <img src="https://my-streak-stats-api.vercel.app/?user=BizrStillLearning&theme=synthwave&hide_border=true&v=100" alt="Streak Stats" /></a>
+    <a href="https://github.com/BizrStillLearning">
+      <img src="https://my-github-stats-umber-three.vercel.app/api/card/BizrStillLearning?theme=synthwave" alt="BizrStillLearning's GitHub Stats" />
+    </a>
   </p>
-  -->
 
-<p align="center">
-  <a href="https://github.com/BizrStillLearning">
-    <img src="https://my-github-stats-umber-three.vercel.app/api/card/BizrStillLearning?theme=synthwave" alt="BizrStillLearning's GitHub Stats" />
-  </a>
-</p>
-  <p>
+  <!-- Baris 2: Most Used Languages (Repo & Commit) Bersebelahan -->
+  <p align="center">
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=10&v=200" alt="Top Languages" />
-</a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20(By%20Repo)&v=200" alt="Top Languages by Repo" />
+    </a>
+    <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20(By%20Commit)&v=200" alt="Top Languages by Commit" />
+    </a>
+  </p>
+
+  <!-- Baris 3: WakaTime Total Coding Time (Lebar) -->
+  <p align="center">
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&layout=compact&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=100" alt="WakaTime Total Coding Time" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=200" alt="WakaTime Total Coding Time" />
     </a>
   </p>
 </div>
