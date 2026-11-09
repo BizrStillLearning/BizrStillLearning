@@ -98,27 +98,27 @@ const abidzarProfile = {
 
 ### 📊 GitHub Analysis & Activity
 <div align="center">
-  <!-- Baris 1: 3D GitHub Stats -->
+  <!-- Baris 1: GitHub Stats Utama -->
   <p align="center">
     <a href="https://github.com/BizrStillLearning">
       <img src="https://my-github-stats-umber-three.vercel.app/api/card/BizrStillLearning?theme=synthwave" alt="BizrStillLearning's GitHub Stats" />
     </a>
   </p>
 
-  <!-- Baris 2: Most Used Languages (Repo & Commit) Bersebelahan -->
+  <!-- Baris 2: Dua Kartu Bahasa (Bersebelahan) -->
   <p align="center">
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20(By%20Repo)&v=200" alt="Top Languages by Repo" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Most%20Used%20Languages&v=300" alt="Languages by Repo" />
     </a>
     <a href="https://github.com/BizrStillLearning?tab=repositories" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20(By%20Commit)&v=200" alt="Top Languages by Commit" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizrStillLearning&layout=compact&theme=synthwave&hide_border=true&langs_count=5&custom_title=Languages%20Distribution&v=300" alt="Languages by Commit" />
     </a>
   </p>
 
-  <!-- Baris 3: WakaTime Total Coding Time (Lebar) -->
+  <!-- Baris 3: WakaTime Total Coding Time (Lebar / Sendirian) -->
   <p align="center">
     <a href="https://wakatime.com" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=200" alt="WakaTime Total Coding Time" />
+      <img src="https://github-readme-stats-chi-one-75.vercel.app/api/wakatime?username=BizrStillLearning&theme=synthwave&custom_title=Total%20Coding%20Time&hide_border=true&langs_count=10&v=300" alt="WakaTime Total Coding Time" />
     </a>
   </p>
 </div>
